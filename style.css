@@ -1,0 +1,25 @@
+.pic{
+    height: auto;
+    width:650px;
+
+}
+
+h1,
+h2{
+    background-color: beige;
+}
+
+h2{
+    color:rgb(253, 0, 0);
+}
+.header{
+    color:green;
+}
+
+a {
+    font-size: 25px;
+}
+
+.link{
+    color:rgb(105, 157, 253);
+}
